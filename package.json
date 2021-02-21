@@ -1,5 +1,5 @@
 {
-  "name": "sol-swagger",
+  "name": "sol-swagger2",
   "version": "1.0.0",
   "description": "Tool to bootstrap Swagger documentation from a Solidity contract or interface",
   "main": "sol2swagger.js",
