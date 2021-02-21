@@ -58,7 +58,7 @@ h1 {
 }
 .navbar-default .navbar-collapse,
 .navbar-default .navbar-form {
-  border-color: #0A0A0A;
+  border-color: #0a0a0a;
 }
 .container1 {
   width: 1500px;
@@ -173,7 +173,8 @@ hr {
 }
 .curl {
   padding: 10px;
-  font-family: "Anonymous Pro", "Menlo", "Consolas", "Bitstream Vera Sans Mono", "Courier New", monospace;
+  font-family: 'Anonymous Pro', 'Menlo', 'Consolas', 'Bitstream Vera Sans Mono', 'Courier New',
+    monospace;
   font-size: 0.9em;
   max-height: 400px;
   margin-top: 5px;
