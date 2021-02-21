@@ -13,13 +13,12 @@
   "scripts": {
     "test": "mocha"
   },
-  "author": "Shannon Code @ Loyyal",
   "license": "MIT",
   "devDependencies": {
     "chai": "^3.5.0",
     "chai-json-equal": "0.0.1",
     "eslint": "^7.17.0",
-    "mocha": "^3.0.2"
+    "mocha": "^8.3.0"
   },
   "dependencies": {
     "express": "^4.17.1",
