@@ -1,11 +1,11 @@
 {
-  "name": "sol2swagger",
+  "name": "sol-swagger",
   "version": "1.0.0",
   "description": "Tool to bootstrap Swagger documentation from a Solidity contract or interface",
   "main": "sol2swagger.js",
   "bin": {
-    "sol2swagger": "bin/sol2swagger",
-    "sol2abi": "bin/sol2abi"
+    "sol-api": "bin/sol2swagger",
+    "sol-abi": "bin/sol2abi"
   },
   "directories": {
     "test": "test"
@@ -18,12 +18,12 @@
   "devDependencies": {
     "chai": "^3.5.0",
     "chai-json-equal": "0.0.1",
+    "eslint": "^7.17.0",
     "mocha": "^3.0.2"
   },
   "dependencies": {
-    "express": "^4.14.0",
-    "fs": "0.0.1-security",
+    "express": "^4.17.1",
     "opn": "^4.0.2",
-    "solc": "^0.3.6"
+    "solc": "0.5.17"
   }
 }
